@@ -16,11 +16,7 @@ export const metadata: Metadata = {
   title: "Acrisius - Navigating Growth Challenges with Expertise",
   description:
     "Acrisius is a consulting firm specializing in helping startups and enterprises overcome growth challenges through strategic planning, market analysis, and operational optimization.",
-  icons: {
-    // Pointing specifically to your branding asset in the public folder
-    icon: "/logo.png",
-    apple: "/logo.png",
-  },
+
 };
 
 export default function RootLayout({
