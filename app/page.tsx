@@ -380,7 +380,7 @@ export default function AcrisiusLanding() {
             </span>
           </div>
           <p className="text-slate-400 text-[10px] font-bold uppercase tracking-[0.5em]">
-            © {new Date().getFullYear()} KALYANMAY BHATTACHARYA & ASSOCIATES •
+            © {new Date().getFullYear()} Acrisius Consulting Pvt Ltd. •
             KOLKATA
           </p>
         </div>
